@@ -17,3 +17,10 @@
     max-width: 80%;
     margin: 3rem auto -12rem;
 }
+
+.values {
+    background-image: url('../img/commodore.jpg');
+    background-size: cover;
+    color: fff;
+    padding-bottom: 5rem;
+}
